@@ -1,0 +1,25 @@
+1) no layers
+27%
+
+2)nn.Linear(512, 256),
+    nn.ReLU(),
+    nn.Linear(256, 10)
+
+62% test
+
+3)nn.Linear(512, 256),
+    nn.ReLU(),
+    nn.Linear(256, 100),
+    nn.ReLU(),
+    nn.Linear(100, 10)
+
+72% training
+63.9% test
+
+4) same architecture
+    15 epochs 
+    batch = 256
+
+    test 59%
+    train ~90%
+    overfitting
