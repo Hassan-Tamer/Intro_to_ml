@@ -1,3 +1,0 @@
-2)
-Got 47224 from 50000 with accuracy 94.45
-Got 5043 from 10000 with accuracy 50.43
