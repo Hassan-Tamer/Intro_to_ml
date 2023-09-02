@@ -7,7 +7,7 @@ ML Labs is a collection of machine learning projects and experiments, using vari
 - [Project 1: MAGIC-Gamma-Telescope-Classification](#project-1-MAGIC-Gamma-Telescope-Classification)
 - [Project 2: CIFAR10-small-images-classification](#project-2-CIFAR10-small-images-classification)
 - [Project 3: Face-Recognition-Using-PCA](#project-3-Face-Recognition-Using-PCA)
-- [Contributing](#Contributers)
+- [Contributers](#Contributers)
 ## Project 1: MAGIC-Gamma-Telescope-Classification
 
 The objective is to classify Gamma and Hadron events using various machine learning algorithms and classifiers trained on the MAGIC Gamma Telescope dataset.
