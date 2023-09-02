@@ -15,7 +15,7 @@ ML Labs is a collection of machine learning projects and experiments, using vari
 The objective is to classify Gamma and Hadron events using various machine learning algorithms and classifiers trained on the MAGIC Gamma Telescope dataset.
 
 - [Code](./MAGIC-Gamma-Telescope-Classification)
-- [Dataset](./MAGIC-Gamma-Telescope-Classification/magic04)
+- [Dataset](./MAGIC-Gamma-Telescope-Classification/magic04.data)
 - [Documentation](./MAGIC-Gamma-Telescope-Classification/README.md)
 
 ## Project 2: CIFAR10-small-images-classification
@@ -23,7 +23,7 @@ The objective is to classify Gamma and Hadron events using various machine learn
 In this problem set we want to use PyTorch to train neural network-based image classifier. You will be using CIFAR-10 dataset to train and evaluate your model.
 
 - [Code](./CIFAR10-small-images-classification)
-- [Dataset](./CIFAR10-small-images-classification/data)
+<!-- - [Dataset](./CIFAR10-small-images-classification/data) -->
 - [Documentation](./CIFAR10-small-images-classification/README.md)
 
 ## Project 3: Face-Recognition-Using-PCA
@@ -31,7 +31,7 @@ In this problem set we want to use PyTorch to train neural network-based image c
 A face recognition project using PCA.
 
 - [Code](./Face-Recognition-Using-PCA)
-- [Dataset](./Face-Recognition-Using-PCA/data)
+- [Dataset](./Face-Recognition-Using-PCA/dataset/)
 - [Documentation](./Face-Recognition-Using-PCA/README.md)
 
 
